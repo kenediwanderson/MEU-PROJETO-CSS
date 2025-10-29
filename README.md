@@ -1,8 +1,6 @@
 # MEU-PROJETO-CSS
 ## 🎨 **1. Sistema de Design**
 
-Crie um arquivo `variables.css` com todas as **variáveis customizadas** (cores, tipografia e espaçamento).
-Isso garante consistência visual e facilidade de manutenção.
 
 ```css
 :root {
